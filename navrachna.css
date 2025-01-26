@@ -1,0 +1,135 @@
+ul{
+    background-color:gainsboro;
+    color: black;
+    list-style-type: none;
+}
+ul li{
+    display:inline-block;
+    padding:70px;
+}
+img{
+    width:500px;
+    height:100px;
+}
+.Dropdown1{
+    display: none;
+}
+ul li:hover .Dropdown1{
+    display:block;
+    position:absolute;
+}
+.Dropdown1 ul li{
+    display: block;
+    margin:0%;
+    padding:5px;
+}
+.Dropdown1 ul{
+    margin:0px;
+    padding:0px;
+}
+.Dropdown1 ul li:hover{
+    color:red;
+}
+.Dropdown2{
+    display: none;
+}
+ul li:hover .Dropdown2{
+    display:block;
+    position:absolute;
+}
+.Dropdown2 ul li{
+    display: block;
+    margin:0%;
+    padding:5px;
+}
+.Dropdown2 ul{
+    margin:0px;
+    padding:0px;
+}
+.Dropdown2 ul li:hover{
+    color:red;
+}
+.Dropdown3{
+    display: none;
+}
+ul li:hover .Dropdown3{
+    display:block;
+    position:absolute;
+}
+.Dropdown3 ul li{
+    display: block;
+    margin:0%;
+    padding:5px;
+}
+.Dropdown3 ul{
+    margin:0px;
+    padding:0px;
+}
+.Dropdown3 ul li:hover{
+    color:red;
+}
+.Dropdown4{
+    display: none;
+}
+ul li:hover .Dropdown4{
+    display:block;
+    position:absolute;
+}
+.Dropdown4 ul li{
+    display: block;
+    margin:0%;
+    padding:5px;
+}
+.Dropdown4 ul{
+    margin:0px;
+    padding:0px;
+}
+.Dropdown4 ul li:hover{
+    color:red;
+}
+.Dropdown5{
+    display: none;
+}
+ul li:hover .Dropdown5{
+    display:block;
+    position:absolute;
+}
+.Dropdown5 ul li{
+    display: block;
+    margin:0%;
+    padding:5px;
+}
+.Dropdown5 ul{
+    margin:0px;
+    padding:0px;
+}
+.Dropdown5 ul li:hover{
+    color:red;
+}
+.Dropdown1{
+text-decoration: none;
+}
+#one{
+    text-decoration: none;
+}
+footer {
+    background: #011729;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 2rem;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: justify;
+}
+.footer em{
+    color: yellow;
+    font-size: larger;
+}
+.image{
+    background-image: url("d:\website photo\Education-Book.jpg");
+    background-size: cover;
+}
